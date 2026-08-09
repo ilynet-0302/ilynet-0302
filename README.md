@@ -1,36 +1,84 @@
-┌──────────────────────────────────────────────┐
-│  👋 Hi, I'm Iliya Baltadzhiev                │
-│  Software Developer • Varna, Bulgaria        │
-│                                              │
-│  Building web applications & backend systems │
-└──────────────────────────────────────────────┘
+<div align="center">
 
-        JAVA   SPRING   REACT   POSTGRES
-              DOCKER   GIT
+Hi, I'm Iliya Baltadzhiev 👋
 
-──────────────────────────────────────────────
+Software Developer · Backend Systems · Web Applications
 
-🚀 Featured Projects
+Based in Varna, Bulgaria 🇧🇬
 
-🎬 MovieVerse
-Modern movie discovery platform powered by TMDB
-React • TypeScript • API • Framer Motion
+I enjoy building practical software, untangling legacy logic, and turning it into cleaner, testable systems.
 
-[ Screenshot ]
+</div>
 
-→ Live Demo     → Source Code
+👨‍💻 About me
 
-──────────────────────────────────────────────
+💻 I work mostly with Java, Spring Boot, PostgreSQL and backend services
 
-🧪 Currently exploring
-System design • Spring Boot • AI-assisted development
+🔌 I enjoy system integration, automation logic and service architecture
 
-──────────────────────────────────────────────
+🧩 I like taking complicated legacy behavior and separating it into smaller, maintainable components
 
-📊 GitHub Activity
+🌐 I also build React / TypeScript projects to sharpen my frontend and product skills
 
-██████████████████████████
+🐳 Comfortable working with Docker, Git and Linux-based environments
 
-──────────────────────────────────────────────
+🧠 Currently improving my skills in system design, testing and full-stack development
 
-📫 LinkedIn • Portfolio • Email
+🚀 I prefer projects that solve a real problem over tutorial clones
+
+🛠️ Tech stack
+
+<div align="center">
+
+
+
+</div>
+
+🚀 What I'm working on
+
+🎬 Movie Discovery App
+
+A modern movie discovery experience built around the TMDB API.
+
+Planned stack: React · TypeScript · TMDB API
+
+Currently in development — this will become one of my featured portfolio projects.
+
+⚙️ Backend & Automation Systems
+
+I work on backend services where reliability, integrations and clean separation of responsibilities matter.
+
+Some of the problems I enjoy working on:
+
+separating business logic from legacy services
+
+designing optional and independently deployable services
+
+comparing old and new system behavior safely
+
+building safety checks and automated tests
+
+working with live data, APIs and PostgreSQL
+
+🎯 What I care about
+
+Readable code      > clever code
+Working software   > impressive buzzwords
+Small services     > tangled responsibilities
+Tests              > "it should work"
+Real projects      > tutorial clones
+
+📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilynet-0302&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilynet-0302&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+Build things. Break things. Understand why. Build them better.
+
+</div>
