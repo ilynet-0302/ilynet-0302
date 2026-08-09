@@ -1,16 +1,36 @@
-## Hi there 👋
+┌──────────────────────────────────────────────┐
+│  👋 Hi, I'm Iliya Baltadzhiev                │
+│  Software Developer • Varna, Bulgaria        │
+│                                              │
+│  Building web applications & backend systems │
+└──────────────────────────────────────────────┘
 
-<!--
-**ilynet-0302/ilynet-0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        JAVA   SPRING   REACT   POSTGRES
+              DOCKER   GIT
 
-Here are some ideas to get you started:
+──────────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+🎬 MovieVerse
+Modern movie discovery platform powered by TMDB
+React • TypeScript • API • Framer Motion
+
+[ Screenshot ]
+
+→ Live Demo     → Source Code
+
+──────────────────────────────────────────────
+
+🧪 Currently exploring
+System design • Spring Boot • AI-assisted development
+
+──────────────────────────────────────────────
+
+📊 GitHub Activity
+
+██████████████████████████
+
+──────────────────────────────────────────────
+
+📫 LinkedIn • Portfolio • Email
