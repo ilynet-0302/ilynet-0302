@@ -73,7 +73,43 @@ Cinepick combines live movie and TV data with personalized discovery, user colle
   </a>
 </p>
 
-### 🤖 Local LLM / Automation Experiments
+## 🚧 Currently building
+
+### 🌍 Travel Memory Map
+
+**A full-stack travel platform for turning trips into interactive digital stories.**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+I'm currently building Travel Memory Map as a larger portfolio project focused on clean full-stack architecture, maintainable code and non-trivial business logic.
+
+The application is designed around interactive trip timelines, maps, photos, collaborative travel and personal travel analytics.
+
+**Planned highlights:**
+
+* 🗺️ interactive trip maps and timelines
+* ▶️ animated **Trip Replay** of an entire journey
+* 🔒 private collaborative trips with secure invitation links
+* 👥 role-based trip membership and permissions
+* 📸 photo uploads with location metadata
+* 💰 shared expense tracking and settlement
+* 🌍 world scratch map and travel statistics
+* 🧬 Trip DNA and personalized travel profiles
+* 🧪 unit and integration testing
+* 🚀 frontend deployment through GitHub Pages
+
+The goal is not just to build another travel CRUD application, but to design a project with clear responsibilities, readable code and architecture that could realistically grow over time.
+
+`In development`
+
+## 🤖 Local LLM / Automation Experiments
 
 Experiments with local language models, automation and practical AI-assisted workflows.
 
@@ -81,12 +117,12 @@ Experiments with local language models, automation and practical AI-assisted wor
 
 ## What I like working on
 
-| | |
-|---|---|
-| Backend services | System integration |
-| Clean architecture | Automation |
-| APIs | Databases |
-| Testing | Practical tooling |
+|                    |                    |
+| ------------------ | ------------------ |
+| Backend services   | System integration |
+| Clean architecture | Automation         |
+| APIs               | Databases          |
+| Testing            | Practical tooling  |
 
 <div align="center">
 
