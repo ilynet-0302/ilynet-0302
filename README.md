@@ -112,6 +112,50 @@ Cinepick combines live movie and TV data with personalized discovery, user colle
   </a>
 </p>
 
+---
+
+### 🌱 Полей ме!
+
+**A lightweight Windows desktop widget for keeping plant-watering schedules organized.**
+
+<p align="center">
+  <a href="https://github.com/ilynet-0302/plant-watering-widget">
+    <img src="https://raw.githubusercontent.com/ilynet-0302/plant-watering-widget/main/docs/screenshots/empty-state.png" width="45%" alt="Полей ме! empty state">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ilynet-0302/plant-watering-widget">
+    <img src="https://raw.githubusercontent.com/ilynet-0302/plant-watering-widget/main/docs/screenshots/add-plant.png" width="45%" alt="Adding a plant in Полей ме!">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
+</p>
+
+Полей ме! is a local-first desktop application that tracks individual watering schedules and keeps plants ordered by urgency.
+
+**Highlights:**
+
+- 💧 Individual watering schedules and clear urgency states
+- 🔔 Native Windows notifications and automatic startup
+- 🪴 Quick watering, editing and undo actions
+- 📌 Compact desktop widget with system tray integration
+- 💾 Local storage with JSON import and export
+- 🔒 No accounts, telemetry or external backend
+
+<p>
+  <a href="https://github.com/ilynet-0302/plant-watering-widget/releases/latest">
+    <img src="https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows">
+  </a>
+  <a href="https://github.com/ilynet-0302/plant-watering-widget">
+    <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source">
+  </a>
+</p>
+
 ## Other interests
 
 🤖 **Local LLM and automation experiments** — practical AI-assisted workflows, tooling and integrations.
