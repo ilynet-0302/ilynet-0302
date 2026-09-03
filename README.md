@@ -84,7 +84,7 @@ Travel Memory Map combines trip planning, memories, collaboration and personal a
 **A privacy-first browser workbench for turning raw logs into an investigation timeline.**
 
 <a href="https://ilynet-0302.github.io/LogLens/">
-  <img src="https://raw.githubusercontent.com/ilynet-0302/LogLens/main/docs/social-preview.png" width="100%" alt="LogLens — private log analysis in your browser">
+  <img src="./assets/social-preview.png" width="100%" alt="LogLens — private log analysis in your browser">
 </a>
 
 <br>
