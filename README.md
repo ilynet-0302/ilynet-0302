@@ -79,6 +79,47 @@ Travel Memory Map combines trip planning, memories, collaboration and personal a
 
 ---
 
+### 🔎 LogLens
+
+**A privacy-first browser workbench for turning raw logs into an investigation timeline.**
+
+<a href="https://ilynet-0302.github.io/LogLens/">
+  <img src="https://raw.githubusercontent.com/ilynet-0302/LogLens/main/docs/social-preview.png" width="100%" alt="LogLens — private log analysis in your browser">
+</a>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Web_Workers-A3BE00?style=flat-square&logo=javascript&logoColor=black" alt="Web Workers">
+</p>
+
+LogLens transforms pasted terminal output and local log files into a focused investigation workspace without uploading sensitive data.
+
+**Highlights:**
+
+- 🔍 Plain-text and regular-expression search
+- 🎛️ Combined source, severity and timeline filters
+- 🧩 Structured parsing for common application and system log formats
+- 🔁 Conservative grouping of repeating warnings and errors
+- ⚡ Web Worker parsing and virtualized rendering for large inputs
+- 🔒 Fully client-side processing with no backend or log persistence
+- 🧪 Automated tests, linting and GitHub Pages deployment
+
+<p>
+  <a href="https://ilynet-0302.github.io/LogLens/">
+    <img src="https://img.shields.io/badge/Open_Live_App-A3BE00?style=for-the-badge&logo=githubpages&logoColor=111111" alt="Open live app">
+  </a>
+  <a href="https://github.com/ilynet-0302/LogLens">
+    <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source">
+  </a>
+</p>
+
+---
+
 ### 🎬 Cinepick
 
 **A movie and TV discovery app focused on helping you find what to watch next.**
